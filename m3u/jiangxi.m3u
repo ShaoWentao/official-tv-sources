@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JXTV1" tvg-name="江西卫视" group-title="卫视",江西卫视
+http://local-live.jxtvcn.com.cn/live/tv_jxtv1.m3u8
+#EXTINF:-1 tvg-id="JXTV2" tvg-name="江西都市" group-title="江西",江西都市频道
+http://local-live.jxtvcn.com.cn/live/tv_jxtv2.m3u8
+#EXTINF:-1 tvg-id="JXTV3" tvg-name="江西经济生活" group-title="江西",江西经济生活频道
+http://local-live.jxtvcn.com.cn/live/tv_jxtv3_hd.m3u8
+#EXTINF:-1 tvg-id="JXTV4" tvg-name="江西影视旅游" group-title="江西",江西影视旅游频道
+http://local-live.jxtvcn.com.cn/live/tv_jxtv4.m3u8
+#EXTINF:-1 tvg-id="JXTV5" tvg-name="江西公共农业" group-title="江西",江西公共农业频道
+http://local-live.jxtvcn.com.cn/live/tv_jxtv5.m3u8
+#EXTINF:-1 tvg-id="JXTV6" tvg-name="江西少儿" group-title="江西",江西少儿频道
+http://local-live.jxtvcn.com.cn/live/tv_jxtv6.m3u8
+#EXTINF:-1 tvg-id="JXTV7" tvg-name="江西新闻" group-title="江西",江西新闻频道
+http://local-live.jxtvcn.com.cn/live/tv_jxtv7.m3u8
